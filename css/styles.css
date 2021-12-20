@@ -577,12 +577,7 @@ body {
 }
 
 .part-online-form {
-  /* display: flex;  */
   padding-top: 12px;
-  /* height: 100%; */
-  /* display: flex; */
-  /* align-items: center; */
-  /* width: 570px; */
   margin-left: auto;
 }
 
@@ -631,7 +626,7 @@ body {
   justify-content: center;
 }
 
-.regular-coustomers-logo {
+.online-logo {
   margin-left: 10px;
 }
 
